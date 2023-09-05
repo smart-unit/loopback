@@ -44,7 +44,7 @@
     "canonical-json": "0.0.4",
     "debug": "^4.3.4",
     "depd": "^1.0.0",
-    "ejs": "^2.3.1",
+    "ejs": "^3.1.9",
     "express": "^4.14.0",
     "inflection": "^1.6.0",
     "isemail": "^3.2.0",
