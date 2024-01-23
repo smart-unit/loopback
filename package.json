@@ -86,7 +86,7 @@
     "karma-junit-reporter": "^1.2.0",
     "karma-mocha": "^1.1.1",
     "karma-script-launcher": "^1.0.0",
-    "loopback-boot": "^2.7.0",
+    "loopback-boot": "https://github.com/smart-unit/loopback-boot.git",
     "loopback-context": "^1.0.0",
     "mocha": "^6.2.1",
     "nyc": "^14.1.1",
