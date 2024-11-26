@@ -49,7 +49,7 @@
     "inflection": "^1.6.0",
     "isemail": "^3.2.0",
     "loopback-connector-remote": "https://github.com/smart-unit/loopback-connector-remote.git",
-    "loopback-datasource-juggler": "^4.28.9",
+    "loopback-datasource-juggler": "^5.1.2",
     "loopback-filters": "^1.0.0",
     "loopback-phase": "https://github.com/smart-unit/loopback-phase.git",
     "nodemailer": "^6.4.16",
